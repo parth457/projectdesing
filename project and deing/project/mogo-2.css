@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.maindiv1{
+    height: 500px;
+    width: 100%;
+    background-image: url(header-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.maindiv4{
+    height: 750px;
+    width: 100%;
+    margin-top: 10px;
+    background-image: url(design-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.photo{
+    height: 50vh;
+    width: 40%;
+    /* margin-left: 100px; */
+    background-image: url(slider-arrow-left.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.maindiv8{
+    height: auto;
+    width: 100%;
+    background-image: url(happy-clients-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.map{
+    height: 200px;
+    width: 100%;
+    background-image: url(map-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
